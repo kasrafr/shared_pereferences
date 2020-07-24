@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">shared_pereferences</string>
+    <array name="pref_list_entries">
+        <item>مهدنسی برق</item>
+        <item>مهدنسی کامپیوتر</item>
+        <item>مهدنسی صنایع</item>
+    </array>
+    <array name="pref_list_values">
+        <item>electrical engineering</item>
+        <item>computer engineering</item>
+        <item>industry engineering</item>
+    </array>
+</resources>
